@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 8a */
+
+.name , .email{
+     width: 100px;
+     height: 30px;
+     padding-left: 10px;
+     display: block;
+     margin-top: 5px;
+     margin-left: 10px;
+     margin-bottom: 20px;
+     border: none;
+     border: 1px solid gray;
+     border-radius: 5px;
+}
+
+/* 8b */
+
+.thanks{
+    width: 200px;
+    line-height: 25px;
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.yes,.no{
+    vertical-align: middle;
+    height: 30px;
+    width: 40px;
+    margin-left: 5px;
+}
+
+/* 8c */
+.google{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.Search{
+    padding: 10px 20px;
+    width: 450px;
+    border-radius: 25px;
+    border: none;
+    display: block;
+    margin: 10px auto 0;
+    box-shadow: 1px 1px 7px gray;
+}
+
+/* 8d */
+
+.first{
+    width: 150px;
+    height: 40px;
+    padding-left: 10px;
+    margin-top: 20px;
+    border: 1px solid rgb(161, 160, 160);
+    margin-left: 5px;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.em{
+   width: 320px;
+   display: block;
+    height: 40px;
+    padding-left: 10px;
+    margin-top: 10px;
+    border: 1px solid rgb(161, 160, 160);
+    margin-left: 5px;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.Sign-btn{
+    width: 330px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: rgb(2, 80, 224);
+    color: white;
+    border: none;
+    margin-left: 5px;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+/* 8e */
+
+.request-txt{
+    font-family: arial;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.enter-inp{
+    margin-left: 20px;
+    width: 300px;
+    height: 40px;
+    background-color: rgb(214, 211, 211);
+    border: none;
+    margin-top: 5px;
+    display: block;
+    padding-left: 15px;
+}
+
+.request-btn{
+    margin-left: 20px;
+    margin-top: 30px;
+    padding: 7px 15px;
+background-color: black;
+color: white;
+border: none;
+}
+
+.Schedule-btn{
+    margin-top: 30px;
+    padding: 7px 15px;
+    margin-left: 10px;
+background-color: rgb(230, 226, 226);
+color: black;
+border: none;
+}
+
