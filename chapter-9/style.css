@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* 9a */
+
+.div1 {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
+
+/* 9b */
+
+.div2 {
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+/* 9c */
+
+.div3 {
+    height: 80px;
+    width: 300px;
+    border: 1px solid gray;
+    margin-left: 20px;
+}
+
+.div3 p {
+    font-family: Arial;
+    padding: 12px 10px;
+    font-size: 16px;
+}
+
+.yes {
+    padding: 3px 5px;
+    margin-left: 12px;
+}
+
+.no {
+    padding: 3px 5px;
+}
+
+/* 9d */
+
+.div4 {
+    background-color: rgba(19, 18, 18, 0.932);
+    color: white;
+    width: 320px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 25px 20px;
+}
+
+.first {
+    font-weight: bold;
+    font-size: 17px;
+    font-family: Arial;
+    margin-bottom: 20px;
+}
+
+.second {
+    font-size: 15px;
+    color: gray;
+}
+
+/* 9e */
+
+.div5 {
+    box-shadow: 1px 1px 10px gray;
+    width: 435px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.cutie {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
+.text-box {
+    font-size: 18px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+
+}
+
+.tweet-btn {
+    border: none;
+    background-color: rgb(0, 81, 255);
+    color: white;
+    padding: 7px 15px;
+    border-radius: 15px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.div6{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 150px;
+    height: 250px;
+    border: none;
+    box-shadow: 1px 1px 6px gray;
+}
+
+.img1{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.p1{
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.p2{
+    margin-left: 5px;
+    color: gray;
+    font-size: 15px;
+    margin-top: 3px;
+}
+
+.Add{
+    margin-left: 5px;
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(10, 86, 248);
+    border: none;
+    font-size: 13px;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+
+/* 9g */
+
+.card1 , .card2 {
+    display: inline-block;
+}
+
+.div-h{
+  text-align: center;
+}
+.div-h-1{
+    text-align: center;
+}
+
+.div-h-2{
+    text-align: center;
+}
+
+
+.google {
+    width: 300px;
+    margin-bottom: 10px;
+
+}
+
+.Search {
+    padding: 10px 20px;
+    width: 450px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 1px 1px 7px gray;
+}
+
+.div-h-2 button{
+    border: none;
+    font-family: Arial;
+    padding: 8px 15px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
