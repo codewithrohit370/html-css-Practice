@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 3000px;
+}
+
+/* 14b */
+.side-bar{
+    background-color: rgba(23, 161, 23, 0.562);
+    position: fixed;
+    width: 100px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}

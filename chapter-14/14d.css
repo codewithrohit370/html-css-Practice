@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    height: 3000px;
+}
+
+.side-bar{
+    background-color: rgba(23, 161, 23, 0.562);
+    position: fixed;
+    width: 100px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.overlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+.Model{
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px 200px 20px 25px;
+}
+.title{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+}
+.Model p{
+    margin-bottom: 15px;
+}
+
+.details{
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.close-btn{
+    padding: 2px 6px;
+}

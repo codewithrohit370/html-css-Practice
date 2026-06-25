@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 3000px;
+    background-color: gray;
+}
+
+.Nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    height: 70px;
+    padding: 0 20px 0;
+}
+.section-1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.profile-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;    
+}
+
+.section-1 p{
+    font-family: Arial;
+    font-weight: 700;
+}
+
+.section-2{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.add-btn{
+    background-color: rgb(21, 79, 238);
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    font-weight: bold;
+    border-radius: 7px;
+}
+
+.message-btn{
+     background-color: rgba(128, 128, 128, 0.247);
+    color: black;
+    padding: 8px 15px;
+    border: none;
+    font-weight: bold;
+    border-radius: 7px;
+}

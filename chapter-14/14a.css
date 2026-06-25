@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 3000px;
+}
+/* 14a */
+
+.bottom{
+    background-color: black;
+    color: white;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
